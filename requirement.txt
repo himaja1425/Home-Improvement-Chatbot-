@@ -1,0 +1,5 @@
+Flask
+openai
+sqlite3
+chromadb
+PyPDF2
